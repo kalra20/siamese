@@ -96,3 +96,4 @@ Two fully-connected layer with `2048` neurons each, `dropout=0.5` between `fc1` 
 * [MNIST](http://yann.lecun.com/exdb/mnist/)
 * [Omniglot](https://github.com/brendenlake/omniglot)
 * [Database of Faces](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html)
+# How to add reject option into the loss function ?
